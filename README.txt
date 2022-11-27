@@ -1,1 +1,1 @@
-Code Academy Pratice
+Kubernetes and Spacelift
